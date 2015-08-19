@@ -1,0 +1,50 @@
+{
+  "version": "1.0.0",
+  "description": "",
+  "author": "Curtis",
+  "contributors": [
+    {
+      "name": "Curtis M. Janczak",
+      "email": "uiuxdeveloper@gmail.com"
+    }
+  ],
+  "private": true,
+  "dependencies": {
+    "connect-modrewrite": "^0.7.9"
+  },
+  "devDependencies": {
+    "coffee-script": "^1.9.3",
+    "css-condense": "0.0.6",
+    "grunt": "^0.4.4",
+    "grunt-autoprefixer": "^3.0.3",
+    "grunt-cdn": "~0.5.2",
+    "grunt-contrib-clean": "^0.5.0",
+    "grunt-contrib-compass": "^0.7.2",
+    "grunt-contrib-compress": "^0.13.0",
+    "grunt-contrib-concat": "^0.4.0",
+    "grunt-contrib-connect": "^0.7.1",
+    "grunt-contrib-copy": "^0.5.0",
+    "grunt-contrib-cssmin": "^0.12.2",
+    "grunt-contrib-htmlmin": "^0.2.0",
+    "grunt-contrib-imagemin": "^0.9.4",
+    "grunt-contrib-jshint": "^0.9.2",
+    "grunt-contrib-sass": "^0.7.3",
+    "grunt-contrib-uglify": "^0.4.0",
+    "grunt-contrib-watch": "^0.6.1",
+    "grunt-cssc": "^0.2.6",
+    "grunt-file-append": "0.0.6",
+    "grunt-jsdoc": "^0.6.7",
+    "grunt-modernizr": "^0.5.2",
+    "grunt-newer": "^0.7.0",
+    "grunt-notify": "^0.2.20",
+    "grunt-processhtml": "^0.3.0",
+    "grunt-spritesmith": "^1.24.0",
+    "grunt-usemin": "^2.1.1",
+    "jshint-stylish": "^0.1.5",
+    "load-grunt-tasks": "^0.4.0",
+    "time-grunt": "^0.3.1"
+  },
+  "engines": {
+    "node": ">=0.12.7"
+  }
+}
